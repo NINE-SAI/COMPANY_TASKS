@@ -1,0 +1,82 @@
+[
+    {
+        "sl":"1",
+        "name":"Bazaar Cafe",
+        "address":"Worth Avenue",
+        "postal":"Unit A 201619",
+        "lat":"36.1152",
+        "long":"117.521"
+    },
+    {
+        "sl":"2",
+        "name":"Shani Cafe",
+        "address":"Kadapa",
+        "postal":"Unit B 256784",
+        "lat":"62.265",
+        "long":"655.320"
+    },
+    {
+        "sl":"3",
+        "name":"Jain Cafe",
+        "address":"Proddatoor",
+        "postal":"Unit C 845925",
+        "lat":"65.321",
+        "long":"145.254"
+    },
+    {
+        "sl":"4",
+        "name":"Raddisonblue Cafe",
+        "address":"Mydukur",
+        "postal":"Unit D 365214",
+        "lat":"45.236",
+        "long":"654.253"
+    },
+    {
+        "sl":"5",
+        "name":"Night Cafe",
+        "address":"Badvel",
+        "postal":"Unit E 753214",
+        "lat":"78.985",
+        "long":"485.652"
+    },
+    {
+        "sl":"6",
+        "name":"Oomni Cafe",
+        "address":"Kuppam",
+        "postal":"Unit F 951236",
+        "lat":"65.235",
+        "long":"755.125"
+    },
+    {
+        "sl":"7",
+        "name":"Raja Cafe",
+        "address":"Nellore",
+        "postal":"Unit G 301256",
+        "lat":"95.254",
+        "long":"753.258"
+    },
+    {
+        "sl":"8",
+        "name":"Aasam Cafe",
+        "address":"Jammalamadugu",
+        "postal":"Unit H 485123",
+        "lat":"65.124",
+        "long":"458.321"
+    },
+    {
+        "sl":"9",
+        "name":"Fantacy Cafe",
+        "address":"Yerraguntla",
+        "postal":"Unit I 456985",
+        "lat":"75.325",
+        "long":"125.321"
+    },
+    {
+        "sl":"10",
+        "name":"Comet Cafe",
+        "address":"Pulivendula",
+        "postal":"Unit J 852130",
+        "lat":"54.251",
+        "long":"658.154"
+    }
+]

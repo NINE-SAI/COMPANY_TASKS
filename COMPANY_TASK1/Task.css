@@ -1,0 +1,25 @@
+@media only screen and (min-width:600px){
+h4{
+    background: whitesmoke;
+    padding-left: 655px;
+}
+center{
+    background-color: whitesmoke;
+    color: black;
+}
+.container{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+input{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    width: 150px;
+    height: 25px;
+}
+
+
+    
+}
